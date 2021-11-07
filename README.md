@@ -1,9 +1,9 @@
 # basic-auth
 
 
-## heruku link [herokulink](https://ehabalshrida-api-server.herokuapp.com/)
+## heruku link [herokulink](https://ehabalshrida-basicauth.herokuapp.com/)
 
-## test on github [test](https://github.com/Ehabalshrida/api-server/actions)
+## test on github [test](https://github.com/Ehabalshrida/basic-auth/actions)
 
 ## setup 
 
